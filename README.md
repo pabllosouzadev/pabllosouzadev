@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Pabllo 👋
 
-<!--
-**pabllosouzadev/pabllosouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Future Software Developer  
+🚀 Learning HTML, CSS, JavaScript & Linux  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Linux
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+- Desenvolvimento Web
+- Git/GitHub
+- Linux
+- Programação
+
+## 🎯 Objetivos
+- Evoluir como desenvolvedor
+- Criar projetos profissionais
+- Trabalhar na área de tecnologia
